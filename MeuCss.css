@@ -1,0 +1,55 @@
+body {
+        font-family: Verdana;
+        color: black;
+        background-color: lightgray;
+        text-align: justify;
+        font-size: 150%;
+        background-image:F:\VITOR\Site no Atom\Meu Site\Canal.jpg;
+      }
+      p.CountryBall {
+        color: white;
+        background-color: red;
+        font-family: Impact;
+        text-align: center;
+        margin-left: 0%;
+        margin-right: 0%;
+      }
+      .Youtube{
+          color: darkgray;
+          background-color: darkred;
+          font-family: Impact;
+          text-align: center;
+          margin-left: 0%;
+        margin-right: 0%;
+      }
+      .Curupira{
+        color: white;
+        background-color: green;
+        font-family: Impact;
+        text-align: center;
+        margin-left: 0%;
+        margin-right: 0%;
+      }
+      .Avisos{
+        color: Red;
+        background-color: black;
+        font-family: sans-serif;
+        text-align: center;
+        margin-left: 0%;
+        margin-right: 0%;
+      }
+      .MaisSobre{
+        color: rgb(2, 0, 90);
+        background-color: fuchsia;
+        font-family: Impact;
+        text-align: center;
+        margin-left: 0%;
+        margin-right: 0%;
+      }
+      *{
+          margin-top: 0%;
+          padding: 0%;   
+          margin-left: 0%;
+          margin-right: 0%;
+          background-image:F:\VITOR\Site no Atom\Meu Site\Canal.jpg;
+      }
